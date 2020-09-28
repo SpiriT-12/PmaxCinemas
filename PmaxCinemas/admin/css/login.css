@@ -1,0 +1,36 @@
+.login-content {
+    max-width: 540px;
+    margin: 8vh auto
+}
+
+.login-form {
+  background: #fff;
+  padding: 50px 65px 30px;
+  border-radius: 5px;
+  margin-top: 100px;
+}
+.mt-4x{
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+.login-form label {
+    color: #878787;
+    text-transform: uppercase
+}
+.Admin_icon{
+  margin-bottom: 10px;
+}
+.login-form .btn {
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 10px;
+    border: 0;
+    margin-top: 15px;
+}
+
+.field_error{
+  color: red;
+  margin-top: 15px;
+  text-align: center;
+}
